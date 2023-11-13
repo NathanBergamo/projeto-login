@@ -3,9 +3,8 @@
 @media screen and (min-width: 768px) and (max-width: 992px){
 
     body{
-        background-image: linear-gradient(to top,  #037971,  #A06CD5  );
+        background-image: linear-gradient(to top,  #037971,  #A06CD5);
     }
-
 
     section#login{
         width: 80vw;
@@ -20,9 +19,8 @@
         float: right;
         width: 70%;
     }
-    
 }
-@media screen and (min-width: 992px)  {
+@media screen and (min-width: 992px){
 
     body{
         background-image: linear-gradient(to top,  #037971,  #A06CD5);
@@ -40,7 +38,7 @@
 
     section#login > div#formulario{
         float: left;
-        width: 50%
+        width: 50%;
     
     } 
     
